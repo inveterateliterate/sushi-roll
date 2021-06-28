@@ -6,6 +6,7 @@ Registration for Sushi Closer's annual Sushi Roll.
 ### Stack
 + Ruby 2.6.5
 + Rails 6.3
++ Node >= 10
 + Postgres
 + Redis
 + Sidekiq
